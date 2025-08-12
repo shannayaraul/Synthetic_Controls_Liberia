@@ -40,7 +40,7 @@
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Ushannayaraul/Synthetic_Controls_Liberias_Economic_Growth_Post_War.git
-
+   git clone https://github.com/shannayaraul/Synthetic_Controls_Liberia.git
+   
 Thank you for your time!
 If you have any questions, feel free to contact me @ shannaya_raul@tamu.edu (Email) or https://www.linkedin.com/in/shannaya-raul/ (LinkedIn).
